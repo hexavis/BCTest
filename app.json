@@ -1,0 +1,24 @@
+{
+  "id": "513b1214-57dc-4f10-9b4a-aaa160b79d24",
+  "name": "tester",
+  "publisher": "jrichard",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.12929.0",
+  "application": "13.3.27233.0",
+  "target": "Extension",
+  "showMyCode": true,
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
